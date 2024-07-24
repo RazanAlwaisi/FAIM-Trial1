@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.faimconference.org	TRUE	/	FALSE	1999999999	1db7bc2a22c7f976ed3f6a90d270967d	20da7bbc9d9b6897c1f386e906658b47
-
